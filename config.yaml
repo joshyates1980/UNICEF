@@ -164,6 +164,9 @@ Languages:
         - name: Contact
           weight: 20
           url: contact
+        - name: categories
+          weight: 20
+          url: my-category         
 
         - name: pages
           weight: 50
@@ -220,6 +223,9 @@ Languages:
         - name: Contactar
           weight: 20
           url: contact
+        - name: categories
+          weight: 20
+          url: my-category
 
         - name: pages
           weight: 50
