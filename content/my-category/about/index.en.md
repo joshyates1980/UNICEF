@@ -1,6 +1,6 @@
 ---
-title: Hello-World
-description: hello.
+title: About
+description: The description
 tags: ["forking", "git", "new site"]
 downloadBtn: true
 # search keywords

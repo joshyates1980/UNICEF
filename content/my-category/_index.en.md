@@ -1,6 +1,6 @@
 ---
-title: Create a new Hugo site
-description: Learn how to create a new Hugo site using the UNICEF Inventory theme.
+title: My Categories
+description: The description
 tags: ["forking", "git", "new site"]
 downloadBtn: true
 # search keywords

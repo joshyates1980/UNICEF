@@ -158,12 +158,6 @@ Languages:
     # --- navigation menu ---
     menu:
       main:
-        - name: FAQ
-          weight: 10
-          url: faq
-        - name: Contact
-          weight: 20
-          url: contact
         - name: categories
           weight: 20
           url: my-category         
